@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mallet Tile Echo</string>
+
+    <string name="app_title">MALLET TILE ECHO</string>
+    <string name="tap_the_song_back">TAP THE SONG BACK</string>
+    <string name="loading">LOADING</string>
+
+    <string name="song_garden">SONG GARDEN</string>
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="hear_it_again">HEAR IT AGAIN</string>
+    <string name="free_play">FREE PLAY</string>
+    <string name="hats">HATS</string>
+    <string name="colors">COLORS</string>
+    <string name="grown_ups">GROWN-UPS</string>
+    <string name="grown_ups_hold">GROWN-UPS · HOLD</string>
+
+    <string name="listen_then_tap">LISTEN, THEN TAP BACK</string>
+    <string name="song_done">SONG DONE!</string>
+    <string name="one_more_flower">ONE MORE FLOWER</string>
+    <string name="hat_unlocked">HAT UNLOCKED!</string>
+
+    <string name="counter_format">%1$d / %2$d</string>
+    <string name="song_label_format">SONG %1$d OF %2$d</string>
+    <string name="note_progress_format">NOTE %1$d OF %2$d</string>
+    <string name="hat_locked_format">%1$d MORE SONGS</string>
+    <string name="minutes_format">%1$d MINUTES</string>
+    <string name="volume_format">%1$d%%</string>
+
+    <string name="stat_songs">SONGS</string>
+    <string name="stat_flowers">FLOWERS</string>
+    <string name="stat_hats">HATS</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="sound_check_title">CAN YOU HEAR IT?</string>
+    <string name="sound_check_body">TAP THE BLUE CIRCLE AND LISTEN FOR A SOFT NOTE.</string>
+    <string name="paused">PAUSED</string>
+
+    <string name="parent_gate_title">GROWN-UPS ONLY</string>
+    <string name="parent_gate_body">HOLD THE CIRCLE FOR THREE SECONDS.</string>
+
+    <string name="volume_limit">VOLUME LIMIT</string>
+    <string name="preview_tone">HEAR IT</string>
+    <string name="session_reminder">SESSION REMINDER</string>
+    <string name="listening_tips">LISTENING TIPS</string>
+    <string name="tip_one">Sit close and name the colour your child taps. Colour words and sounds settle together.</string>
+    <string name="tip_two">Let a wrong tap pass without comment. The mole simply plays the phrase again, slower.</string>
+    <string name="tip_three">Two or three songs in one sitting is plenty for a toddler. Short and happy beats long and tired.</string>
+    <string name="tip_four">Hum the phrase back yourself before your child answers. Copying a voice is easier than copying a bar.</string>
+
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_title">START THE GARDEN OVER?</string>
+    <string name="reset_body">Every bloomed flower and unlocked hat will be cleared.</string>
+    <string name="reset_confirm">RESET</string>
+
+    <string name="instrument_xylophone">XYLOPHONE</string>
+    <string name="instrument_bells">BELLS</string>
+    <string name="instrument_marimba">MARIMBA</string>
+
+    <string name="note_c">C</string>
+    <string name="note_d">D</string>
+    <string name="note_e">E</string>
+    <string name="note_f">F</string>
+    <string name="note_g">G</string>
+    <string name="note_a">A</string>
+
+    <string name="cd_logo">Mallet Tile Echo emblem</string>
+    <string name="cd_mole">The mole that plays the song</string>
+    <string name="cd_flower">A bloomed garden flower</string>
+    <string name="cd_mallet">A wooden mallet</string>
+    <string name="cd_home">Back to the song garden</string>
+    <string name="cd_pause">Pause the song</string>
+    <string name="cd_lock">Locked for grown-ups</string>
+
+    <string name="cd_bar_red">Red bar</string>
+    <string name="cd_bar_orange">Orange bar</string>
+    <string name="cd_bar_yellow">Yellow bar</string>
+    <string name="cd_bar_green">Green bar</string>
+    <string name="cd_bar_blue">Blue bar</string>
+    <string name="cd_bar_purple">Purple bar</string>
+
+    <string name="state_ringing">ringing</string>
+    <string name="state_quiet">quiet</string>
+    <string name="state_bloomed">bloomed</string>
+    <string name="state_locked">not grown yet</string>
+    <string name="state_selected">worn</string>
+    <string name="state_not_selected">not worn</string>
+</resources>
